@@ -53,5 +53,6 @@ Migrating your database
    :maxdepth: 2
 
    migration_details
+   migration_pycharm
    after_migration
    migrate.py
